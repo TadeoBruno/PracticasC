@@ -1,0 +1,10 @@
+C:\Users\tadeo\source\repos\practicaintegradora1\practicaintegradora1\bin\Debug\practicaintegradora1.exe.config
+C:\Users\tadeo\source\repos\practicaintegradora1\practicaintegradora1\bin\Debug\practicaintegradora1.exe
+C:\Users\tadeo\source\repos\practicaintegradora1\practicaintegradora1\bin\Debug\practicaintegradora1.pdb
+C:\Users\tadeo\source\repos\practicaintegradora1\practicaintegradora1\obj\Debug\practicaintegradora1.csprojAssemblyReference.cache
+C:\Users\tadeo\source\repos\practicaintegradora1\practicaintegradora1\obj\Debug\practicaintegradora1.Form1.resources
+C:\Users\tadeo\source\repos\practicaintegradora1\practicaintegradora1\obj\Debug\practicaintegradora1.Properties.Resources.resources
+C:\Users\tadeo\source\repos\practicaintegradora1\practicaintegradora1\obj\Debug\practicaintegradora1.csproj.GenerateResource.cache
+C:\Users\tadeo\source\repos\practicaintegradora1\practicaintegradora1\obj\Debug\practicaintegradora1.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\source\repos\practicaintegradora1\practicaintegradora1\obj\Debug\practicaintegradora1.exe
+C:\Users\tadeo\source\repos\practicaintegradora1\practicaintegradora1\obj\Debug\practicaintegradora1.pdb

@@ -1,0 +1,20 @@
+C:\Users\migue\OneDrive\Escritorio\tp\recuperatorio v1\Miguel Aranguren Recuperatorio\Miguel Aranguren Recuperatorio\bin\Debug\Miguel Aranguren Recuperatorio.exe.config
+C:\Users\migue\OneDrive\Escritorio\tp\recuperatorio v1\Miguel Aranguren Recuperatorio\Miguel Aranguren Recuperatorio\bin\Debug\Miguel Aranguren Recuperatorio.exe
+C:\Users\migue\OneDrive\Escritorio\tp\recuperatorio v1\Miguel Aranguren Recuperatorio\Miguel Aranguren Recuperatorio\bin\Debug\Miguel Aranguren Recuperatorio.pdb
+C:\Users\migue\OneDrive\Escritorio\tp\recuperatorio v1\Miguel Aranguren Recuperatorio\Miguel Aranguren Recuperatorio\obj\Debug\Miguel Aranguren Recuperatorio.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Escritorio\tp\recuperatorio v1\Miguel Aranguren Recuperatorio\Miguel Aranguren Recuperatorio\obj\Debug\Miguel_Aranguren_Recuperatorio.Form1.resources
+C:\Users\migue\OneDrive\Escritorio\tp\recuperatorio v1\Miguel Aranguren Recuperatorio\Miguel Aranguren Recuperatorio\obj\Debug\Miguel_Aranguren_Recuperatorio.Properties.Resources.resources
+C:\Users\migue\OneDrive\Escritorio\tp\recuperatorio v1\Miguel Aranguren Recuperatorio\Miguel Aranguren Recuperatorio\obj\Debug\Miguel Aranguren Recuperatorio.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Escritorio\tp\recuperatorio v1\Miguel Aranguren Recuperatorio\Miguel Aranguren Recuperatorio\obj\Debug\Miguel Aranguren Recuperatorio.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Escritorio\tp\recuperatorio v1\Miguel Aranguren Recuperatorio\Miguel Aranguren Recuperatorio\obj\Debug\Miguel Aranguren Recuperatorio.exe
+C:\Users\migue\OneDrive\Escritorio\tp\recuperatorio v1\Miguel Aranguren Recuperatorio\Miguel Aranguren Recuperatorio\obj\Debug\Miguel Aranguren Recuperatorio.pdb
+C:\Users\tadeo\source\repos\Miguel Aranguren Recuperatorio\Miguel Aranguren Recuperatorio\bin\Debug\Miguel Aranguren Recuperatorio.exe.config
+C:\Users\tadeo\source\repos\Miguel Aranguren Recuperatorio\Miguel Aranguren Recuperatorio\bin\Debug\Miguel Aranguren Recuperatorio.exe
+C:\Users\tadeo\source\repos\Miguel Aranguren Recuperatorio\Miguel Aranguren Recuperatorio\bin\Debug\Miguel Aranguren Recuperatorio.pdb
+C:\Users\tadeo\source\repos\Miguel Aranguren Recuperatorio\Miguel Aranguren Recuperatorio\obj\Debug\Miguel Aranguren Recuperatorio.csprojAssemblyReference.cache
+C:\Users\tadeo\source\repos\Miguel Aranguren Recuperatorio\Miguel Aranguren Recuperatorio\obj\Debug\Miguel_Aranguren_Recuperatorio.Form1.resources
+C:\Users\tadeo\source\repos\Miguel Aranguren Recuperatorio\Miguel Aranguren Recuperatorio\obj\Debug\Miguel_Aranguren_Recuperatorio.Properties.Resources.resources
+C:\Users\tadeo\source\repos\Miguel Aranguren Recuperatorio\Miguel Aranguren Recuperatorio\obj\Debug\Miguel Aranguren Recuperatorio.csproj.GenerateResource.cache
+C:\Users\tadeo\source\repos\Miguel Aranguren Recuperatorio\Miguel Aranguren Recuperatorio\obj\Debug\Miguel Aranguren Recuperatorio.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\source\repos\Miguel Aranguren Recuperatorio\Miguel Aranguren Recuperatorio\obj\Debug\Miguel Aranguren Recuperatorio.exe
+C:\Users\tadeo\source\repos\Miguel Aranguren Recuperatorio\Miguel Aranguren Recuperatorio\obj\Debug\Miguel Aranguren Recuperatorio.pdb

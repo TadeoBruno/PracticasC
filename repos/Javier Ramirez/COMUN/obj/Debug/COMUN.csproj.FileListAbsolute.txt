@@ -1,0 +1,28 @@
+C:\Users\Ing\Downloads\Abrir Forms\Abrir Forms\COMUN\obj\Debug\COMUN.csprojResolveAssemblyReference.cache
+D:\Google Drive\PE\PROGRAMACION I\EJEMPLOS WINFORM C#\Abrir Forms\Abrir Forms\COMUN\obj\Debug\COMUN.csprojResolveAssemblyReference.cache
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\EjemploUno\COMUN\bin\Debug\COMUN.dll
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\EjemploUno\COMUN\bin\Debug\COMUN.pdb
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\EjemploUno\COMUN\obj\Debug\COMUN.csprojResolveAssemblyReference.cache
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\EjemploUno\COMUN\obj\Debug\COMUN.dll
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\EjemploUno\COMUN\obj\Debug\COMUN.pdb
+C:\Users\Ing\Desktop\PROYECTOS DE EJEMPLOS\EjemploDos\COMUN\bin\Debug\COMUN.dll
+C:\Users\Ing\Desktop\PROYECTOS DE EJEMPLOS\EjemploDos\COMUN\bin\Debug\COMUN.pdb
+C:\Users\Ing\Desktop\PROYECTOS DE EJEMPLOS\EjemploDos\COMUN\obj\Debug\COMUN.csprojResolveAssemblyReference.cache
+C:\Users\Ing\Desktop\PROYECTOS DE EJEMPLOS\EjemploDos\COMUN\obj\Debug\COMUN.dll
+C:\Users\Ing\Desktop\PROYECTOS DE EJEMPLOS\EjemploDos\COMUN\obj\Debug\COMUN.pdb
+C:\UAI\PI-2019\Clase 11\EjemploDos\EjemploDos\COMUN\bin\Debug\COMUN.dll
+C:\UAI\PI-2019\Clase 11\EjemploDos\EjemploDos\COMUN\bin\Debug\COMUN.pdb
+C:\UAI\PI-2019\Clase 11\EjemploDos\EjemploDos\COMUN\obj\Debug\COMUN.csprojResolveAssemblyReference.cache
+C:\UAI\PI-2019\Clase 11\EjemploDos\EjemploDos\COMUN\obj\Debug\COMUN.dll
+C:\UAI\PI-2019\Clase 11\EjemploDos\EjemploDos\COMUN\obj\Debug\COMUN.pdb
+C:\Users\javie\Desktop\Universidad\Programación\C#\C sla\Designer Forms\COMUN\COMUN\bin\Debug\COMUN.dll
+C:\Users\javie\Desktop\Universidad\Programación\C#\C sla\Designer Forms\COMUN\COMUN\bin\Debug\COMUN.pdb
+C:\Users\javie\Desktop\Universidad\Programación\C#\C sla\Designer Forms\COMUN\COMUN\obj\Debug\COMUN.csproj.AssemblyReference.cache
+C:\Users\javie\Desktop\Universidad\Programación\C#\C sla\Designer Forms\COMUN\COMUN\obj\Debug\COMUN.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\Universidad\Programación\C#\C sla\Designer Forms\COMUN\COMUN\obj\Debug\COMUN.dll
+C:\Users\javie\Desktop\Universidad\Programación\C#\C sla\Designer Forms\COMUN\COMUN\obj\Debug\COMUN.pdb
+C:\Users\navegador\Desktop\COMUN\bin\Debug\COMUN.dll
+C:\Users\navegador\Desktop\COMUN\bin\Debug\COMUN.pdb
+C:\Users\navegador\Desktop\COMUN\obj\Debug\COMUN.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\COMUN\obj\Debug\COMUN.dll
+C:\Users\navegador\Desktop\COMUN\obj\Debug\COMUN.pdb

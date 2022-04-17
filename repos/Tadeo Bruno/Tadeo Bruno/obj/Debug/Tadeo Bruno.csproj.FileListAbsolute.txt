@@ -1,0 +1,15 @@
+C:\Users\tadeo\source\repos\Tadeo Bruno\Tadeo Bruno\bin\Debug\Tadeo Bruno.exe.config
+C:\Users\tadeo\source\repos\Tadeo Bruno\Tadeo Bruno\bin\Debug\Tadeo Bruno.exe
+C:\Users\tadeo\source\repos\Tadeo Bruno\Tadeo Bruno\bin\Debug\Tadeo Bruno.pdb
+C:\Users\tadeo\source\repos\Tadeo Bruno\Tadeo Bruno\bin\Debug\COMUN.dll
+C:\Users\tadeo\source\repos\Tadeo Bruno\Tadeo Bruno\bin\Debug\COMUN.pdb
+C:\Users\tadeo\source\repos\Tadeo Bruno\Tadeo Bruno\bin\Debug\COMUN.exe.config
+C:\Users\tadeo\source\repos\Tadeo Bruno\Tadeo Bruno\obj\Debug\Tadeo Bruno.csprojAssemblyReference.cache
+C:\Users\tadeo\source\repos\Tadeo Bruno\Tadeo Bruno\obj\Debug\Tadeo_Bruno.Form1.resources
+C:\Users\tadeo\source\repos\Tadeo Bruno\Tadeo Bruno\obj\Debug\Tadeo_Bruno.Properties.Resources.resources
+C:\Users\tadeo\source\repos\Tadeo Bruno\Tadeo Bruno\obj\Debug\Tadeo Bruno.csproj.GenerateResource.cache
+C:\Users\tadeo\source\repos\Tadeo Bruno\Tadeo Bruno\obj\Debug\Tadeo Bruno.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\source\repos\Tadeo Bruno\Tadeo Bruno\obj\Debug\Tadeo Bruno.csproj.CopyComplete
+C:\Users\tadeo\source\repos\Tadeo Bruno\Tadeo Bruno\obj\Debug\Tadeo Bruno.exe
+C:\Users\tadeo\source\repos\Tadeo Bruno\Tadeo Bruno\obj\Debug\Tadeo Bruno.pdb
+C:\Users\tadeo\source\repos\Tadeo Bruno\Tadeo Bruno\obj\Debug\Tadeo_Bruno.DatosDueño.resources

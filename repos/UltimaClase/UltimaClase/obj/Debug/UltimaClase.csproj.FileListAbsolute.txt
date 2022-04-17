@@ -1,0 +1,10 @@
+C:\Users\tadeo\source\repos\UltimaClase\UltimaClase\bin\Debug\UltimaClase.exe.config
+C:\Users\tadeo\source\repos\UltimaClase\UltimaClase\bin\Debug\UltimaClase.exe
+C:\Users\tadeo\source\repos\UltimaClase\UltimaClase\bin\Debug\UltimaClase.pdb
+C:\Users\tadeo\source\repos\UltimaClase\UltimaClase\obj\Debug\UltimaClase.csprojAssemblyReference.cache
+C:\Users\tadeo\source\repos\UltimaClase\UltimaClase\obj\Debug\UltimaClase.Form1.resources
+C:\Users\tadeo\source\repos\UltimaClase\UltimaClase\obj\Debug\UltimaClase.Properties.Resources.resources
+C:\Users\tadeo\source\repos\UltimaClase\UltimaClase\obj\Debug\UltimaClase.csproj.GenerateResource.cache
+C:\Users\tadeo\source\repos\UltimaClase\UltimaClase\obj\Debug\UltimaClase.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\source\repos\UltimaClase\UltimaClase\obj\Debug\UltimaClase.exe
+C:\Users\tadeo\source\repos\UltimaClase\UltimaClase\obj\Debug\UltimaClase.pdb

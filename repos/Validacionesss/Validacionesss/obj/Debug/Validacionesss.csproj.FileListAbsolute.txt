@@ -1,0 +1,10 @@
+C:\Users\tadeo\source\repos\Validacionesss\Validacionesss\bin\Debug\Validacionesss.exe.config
+C:\Users\tadeo\source\repos\Validacionesss\Validacionesss\bin\Debug\Validacionesss.exe
+C:\Users\tadeo\source\repos\Validacionesss\Validacionesss\bin\Debug\Validacionesss.pdb
+C:\Users\tadeo\source\repos\Validacionesss\Validacionesss\obj\Debug\Validacionesss.csprojAssemblyReference.cache
+C:\Users\tadeo\source\repos\Validacionesss\Validacionesss\obj\Debug\Validacionesss.Form1.resources
+C:\Users\tadeo\source\repos\Validacionesss\Validacionesss\obj\Debug\Validacionesss.Properties.Resources.resources
+C:\Users\tadeo\source\repos\Validacionesss\Validacionesss\obj\Debug\Validacionesss.csproj.GenerateResource.cache
+C:\Users\tadeo\source\repos\Validacionesss\Validacionesss\obj\Debug\Validacionesss.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\source\repos\Validacionesss\Validacionesss\obj\Debug\Validacionesss.exe
+C:\Users\tadeo\source\repos\Validacionesss\Validacionesss\obj\Debug\Validacionesss.pdb

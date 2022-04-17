@@ -1,0 +1,12 @@
+C:\Users\tadeo\source\repos\fechas\bin\Debug\fechas.exe.config
+C:\Users\tadeo\source\repos\fechas\bin\Debug\fechas.exe
+C:\Users\tadeo\source\repos\fechas\bin\Debug\fechas.pdb
+C:\Users\tadeo\source\repos\fechas\obj\Debug\fechas.Properties.Resources.resources
+C:\Users\tadeo\source\repos\fechas\obj\Debug\fechas.csproj.GenerateResource.cache
+C:\Users\tadeo\source\repos\fechas\obj\Debug\fechas.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\source\repos\fechas\obj\Debug\fechas.exe
+C:\Users\tadeo\source\repos\fechas\obj\Debug\fechas.pdb
+C:\Users\tadeo\source\repos\fechas\obj\Debug\fechas.csprojAssemblyReference.cache
+C:\Users\tadeo\source\repos\fechas\obj\Debug\fechas.OperacionesFecha1.resources
+C:\Users\tadeo\source\repos\fechas\obj\Debug\fechas.OperacionesFecha2.resources
+C:\Users\tadeo\source\repos\fechas\obj\Debug\fechas.OperacionesFecha3.resources

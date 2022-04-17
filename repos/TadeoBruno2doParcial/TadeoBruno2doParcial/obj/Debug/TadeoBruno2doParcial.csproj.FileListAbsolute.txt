@@ -1,0 +1,11 @@
+C:\Users\tadeo\source\repos\TadeoBruno2doParcial\TadeoBruno2doParcial\bin\Debug\TadeoBruno2doParcial.exe.config
+C:\Users\tadeo\source\repos\TadeoBruno2doParcial\TadeoBruno2doParcial\bin\Debug\TadeoBruno2doParcial.exe
+C:\Users\tadeo\source\repos\TadeoBruno2doParcial\TadeoBruno2doParcial\bin\Debug\TadeoBruno2doParcial.pdb
+C:\Users\tadeo\source\repos\TadeoBruno2doParcial\TadeoBruno2doParcial\obj\Debug\TadeoBruno2doParcial.csprojAssemblyReference.cache
+C:\Users\tadeo\source\repos\TadeoBruno2doParcial\TadeoBruno2doParcial\obj\Debug\TadeoBruno2doParcial.Form1.resources
+C:\Users\tadeo\source\repos\TadeoBruno2doParcial\TadeoBruno2doParcial\obj\Debug\TadeoBruno2doParcial.Properties.Resources.resources
+C:\Users\tadeo\source\repos\TadeoBruno2doParcial\TadeoBruno2doParcial\obj\Debug\TadeoBruno2doParcial.csproj.GenerateResource.cache
+C:\Users\tadeo\source\repos\TadeoBruno2doParcial\TadeoBruno2doParcial\obj\Debug\TadeoBruno2doParcial.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\source\repos\TadeoBruno2doParcial\TadeoBruno2doParcial\obj\Debug\TadeoBruno2doParcial.exe
+C:\Users\tadeo\source\repos\TadeoBruno2doParcial\TadeoBruno2doParcial\obj\Debug\TadeoBruno2doParcial.pdb
+C:\Users\tadeo\source\repos\TadeoBruno2doParcial\TadeoBruno2doParcial\obj\Debug\TadeoBruno2doParcial.FormRegistroDatos.resources

@@ -1,0 +1,10 @@
+C:\Users\tadeo\source\repos\EnvioCorreo\EnvioCorreo\bin\Debug\EnvioCorreo.exe.config
+C:\Users\tadeo\source\repos\EnvioCorreo\EnvioCorreo\bin\Debug\EnvioCorreo.exe
+C:\Users\tadeo\source\repos\EnvioCorreo\EnvioCorreo\bin\Debug\EnvioCorreo.pdb
+C:\Users\tadeo\source\repos\EnvioCorreo\EnvioCorreo\obj\Debug\EnvioCorreo.csprojAssemblyReference.cache
+C:\Users\tadeo\source\repos\EnvioCorreo\EnvioCorreo\obj\Debug\EnvioCorreo.Form1.resources
+C:\Users\tadeo\source\repos\EnvioCorreo\EnvioCorreo\obj\Debug\EnvioCorreo.Properties.Resources.resources
+C:\Users\tadeo\source\repos\EnvioCorreo\EnvioCorreo\obj\Debug\EnvioCorreo.csproj.GenerateResource.cache
+C:\Users\tadeo\source\repos\EnvioCorreo\EnvioCorreo\obj\Debug\EnvioCorreo.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\source\repos\EnvioCorreo\EnvioCorreo\obj\Debug\EnvioCorreo.exe
+C:\Users\tadeo\source\repos\EnvioCorreo\EnvioCorreo\obj\Debug\EnvioCorreo.pdb

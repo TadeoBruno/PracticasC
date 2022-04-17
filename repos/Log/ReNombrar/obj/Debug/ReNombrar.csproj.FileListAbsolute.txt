@@ -1,0 +1,10 @@
+C:\Users\tadeo\source\repos\ReNombrar\ReNombrar\bin\Debug\ReNombrar.exe.config
+C:\Users\tadeo\source\repos\ReNombrar\ReNombrar\bin\Debug\ReNombrar.exe
+C:\Users\tadeo\source\repos\ReNombrar\ReNombrar\bin\Debug\ReNombrar.pdb
+C:\Users\tadeo\source\repos\ReNombrar\ReNombrar\obj\Debug\ReNombrar.csprojAssemblyReference.cache
+C:\Users\tadeo\source\repos\ReNombrar\ReNombrar\obj\Debug\ReNombrar.Form1.resources
+C:\Users\tadeo\source\repos\ReNombrar\ReNombrar\obj\Debug\ReNombrar.Properties.Resources.resources
+C:\Users\tadeo\source\repos\ReNombrar\ReNombrar\obj\Debug\ReNombrar.csproj.GenerateResource.cache
+C:\Users\tadeo\source\repos\ReNombrar\ReNombrar\obj\Debug\ReNombrar.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\source\repos\ReNombrar\ReNombrar\obj\Debug\ReNombrar.exe
+C:\Users\tadeo\source\repos\ReNombrar\ReNombrar\obj\Debug\ReNombrar.pdb

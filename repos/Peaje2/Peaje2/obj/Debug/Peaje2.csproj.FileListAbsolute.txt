@@ -1,0 +1,10 @@
+C:\Users\tadeo\source\repos\Peaje2\Peaje2\bin\Debug\Peaje2.exe.config
+C:\Users\tadeo\source\repos\Peaje2\Peaje2\bin\Debug\Peaje2.exe
+C:\Users\tadeo\source\repos\Peaje2\Peaje2\bin\Debug\Peaje2.pdb
+C:\Users\tadeo\source\repos\Peaje2\Peaje2\obj\Debug\Peaje2.csprojAssemblyReference.cache
+C:\Users\tadeo\source\repos\Peaje2\Peaje2\obj\Debug\Peaje2.Form1.resources
+C:\Users\tadeo\source\repos\Peaje2\Peaje2\obj\Debug\Peaje2.Properties.Resources.resources
+C:\Users\tadeo\source\repos\Peaje2\Peaje2\obj\Debug\Peaje2.csproj.GenerateResource.cache
+C:\Users\tadeo\source\repos\Peaje2\Peaje2\obj\Debug\Peaje2.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\source\repos\Peaje2\Peaje2\obj\Debug\Peaje2.exe
+C:\Users\tadeo\source\repos\Peaje2\Peaje2\obj\Debug\Peaje2.pdb

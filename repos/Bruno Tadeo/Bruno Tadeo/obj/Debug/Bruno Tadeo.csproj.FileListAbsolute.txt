@@ -1,0 +1,10 @@
+C:\Users\tadeo\source\repos\Bruno Tadeo\Bruno Tadeo\bin\Debug\Bruno Tadeo.exe.config
+C:\Users\tadeo\source\repos\Bruno Tadeo\Bruno Tadeo\bin\Debug\Bruno Tadeo.exe
+C:\Users\tadeo\source\repos\Bruno Tadeo\Bruno Tadeo\bin\Debug\Bruno Tadeo.pdb
+C:\Users\tadeo\source\repos\Bruno Tadeo\Bruno Tadeo\obj\Debug\Bruno Tadeo.csprojAssemblyReference.cache
+C:\Users\tadeo\source\repos\Bruno Tadeo\Bruno Tadeo\obj\Debug\Bruno_Tadeo.Form1.resources
+C:\Users\tadeo\source\repos\Bruno Tadeo\Bruno Tadeo\obj\Debug\Bruno_Tadeo.Properties.Resources.resources
+C:\Users\tadeo\source\repos\Bruno Tadeo\Bruno Tadeo\obj\Debug\Bruno Tadeo.csproj.GenerateResource.cache
+C:\Users\tadeo\source\repos\Bruno Tadeo\Bruno Tadeo\obj\Debug\Bruno Tadeo.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\source\repos\Bruno Tadeo\Bruno Tadeo\obj\Debug\Bruno Tadeo.exe
+C:\Users\tadeo\source\repos\Bruno Tadeo\Bruno Tadeo\obj\Debug\Bruno Tadeo.pdb

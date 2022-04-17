@@ -1,0 +1,10 @@
+C:\Users\tadeo\source\repos\Borrador\Borrador\bin\Debug\Borrador.exe.config
+C:\Users\tadeo\source\repos\Borrador\Borrador\bin\Debug\Borrador.exe
+C:\Users\tadeo\source\repos\Borrador\Borrador\bin\Debug\Borrador.pdb
+C:\Users\tadeo\source\repos\Borrador\Borrador\obj\Debug\Borrador.csprojAssemblyReference.cache
+C:\Users\tadeo\source\repos\Borrador\Borrador\obj\Debug\Borrador.Form1.resources
+C:\Users\tadeo\source\repos\Borrador\Borrador\obj\Debug\Borrador.Properties.Resources.resources
+C:\Users\tadeo\source\repos\Borrador\Borrador\obj\Debug\Borrador.csproj.GenerateResource.cache
+C:\Users\tadeo\source\repos\Borrador\Borrador\obj\Debug\Borrador.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\source\repos\Borrador\Borrador\obj\Debug\Borrador.exe
+C:\Users\tadeo\source\repos\Borrador\Borrador\obj\Debug\Borrador.pdb

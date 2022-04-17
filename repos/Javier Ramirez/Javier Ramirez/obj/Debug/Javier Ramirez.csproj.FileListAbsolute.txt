@@ -1,0 +1,20 @@
+C:\Users\navegador\Desktop\Examen Javier Ramìrez\Javier Ramirez\Javier Ramirez\bin\Debug\Javier Ramirez.exe.config
+C:\Users\navegador\Desktop\Examen Javier Ramìrez\Javier Ramirez\Javier Ramirez\obj\Debug\Javier Ramirez.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\Examen Javier Ramìrez\Javier Ramirez\Javier Ramirez\obj\Debug\Javier_Ramirez.Form1.resources
+C:\Users\navegador\Desktop\Examen Javier Ramìrez\Javier Ramirez\Javier Ramirez\obj\Debug\Javier_Ramirez.Properties.Resources.resources
+C:\Users\navegador\Desktop\Examen Javier Ramìrez\Javier Ramirez\Javier Ramirez\obj\Debug\Javier Ramirez.csproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\Examen Javier Ramìrez\Javier Ramirez\Javier Ramirez\bin\Debug\Javier Ramirez.exe
+C:\Users\navegador\Desktop\Examen Javier Ramìrez\Javier Ramirez\Javier Ramirez\bin\Debug\Javier Ramirez.pdb
+C:\Users\navegador\Desktop\Examen Javier Ramìrez\Javier Ramirez\Javier Ramirez\bin\Debug\COMUN.dll
+C:\Users\navegador\Desktop\Examen Javier Ramìrez\Javier Ramirez\Javier Ramirez\bin\Debug\COMUN.pdb
+C:\Users\navegador\Desktop\Examen Javier Ramìrez\Javier Ramirez\Javier Ramirez\obj\Debug\Javier Ramirez.exe
+C:\Users\navegador\Desktop\Examen Javier Ramìrez\Javier Ramirez\Javier Ramirez\obj\Debug\Javier Ramirez.pdb
+C:\Users\navegador\Desktop\Examen Javier Ramìrez\Javier Ramirez\Javier Ramirez\obj\Debug\Javier_Ramirez.Form2.resources
+C:\Users\tadeo\source\repos\Javier Ramirez\Javier Ramirez\obj\Debug\Javier Ramirez.csprojAssemblyReference.cache
+C:\Users\tadeo\source\repos\Javier Ramirez\Javier Ramirez\obj\Debug\Javier_Ramirez.Form1.resources
+C:\Users\tadeo\source\repos\Javier Ramirez\Javier Ramirez\obj\Debug\Javier_Ramirez.Form2.resources
+C:\Users\tadeo\source\repos\Javier Ramirez\Javier Ramirez\obj\Debug\Javier_Ramirez.Properties.Resources.resources
+C:\Users\tadeo\source\repos\Javier Ramirez\Javier Ramirez\obj\Debug\Javier Ramirez.csproj.GenerateResource.cache
+C:\Users\tadeo\source\repos\Javier Ramirez\Javier Ramirez\obj\Debug\Javier Ramirez.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\source\repos\Javier Ramirez\Javier Ramirez\obj\Debug\Javier Ramirez.exe
+C:\Users\tadeo\source\repos\Javier Ramirez\Javier Ramirez\obj\Debug\Javier Ramirez.pdb

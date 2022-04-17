@@ -1,0 +1,29 @@
+C:\UAI\Proyectos\EnvioMail\EnvioMail\bin\Debug\EnvioMail.exe.config
+C:\UAI\Proyectos\EnvioMail\EnvioMail\bin\Debug\EnvioMail.exe
+C:\UAI\Proyectos\EnvioMail\EnvioMail\bin\Debug\EnvioMail.pdb
+C:\UAI\Proyectos\EnvioMail\EnvioMail\obj\Debug\EnvioMail.csprojResolveAssemblyReference.cache
+C:\UAI\Proyectos\EnvioMail\EnvioMail\obj\Debug\EnvioMail.Form1.resources
+C:\UAI\Proyectos\EnvioMail\EnvioMail\obj\Debug\EnvioMail.Properties.Resources.resources
+C:\UAI\Proyectos\EnvioMail\EnvioMail\obj\Debug\EnvioMail.csproj.GenerateResource.Cache
+C:\UAI\Proyectos\EnvioMail\EnvioMail\obj\Debug\EnvioMail.exe
+C:\UAI\Proyectos\EnvioMail\EnvioMail\obj\Debug\EnvioMail.pdb
+C:\UAI\2020\PI\UNIDAD3\Clase 9\Clase 9\EnvioMail\EnvioMail\bin\Debug\EnvioMail.exe.config
+C:\UAI\2020\PI\UNIDAD3\Clase 9\Clase 9\EnvioMail\EnvioMail\bin\Debug\EnvioMail.exe
+C:\UAI\2020\PI\UNIDAD3\Clase 9\Clase 9\EnvioMail\EnvioMail\bin\Debug\EnvioMail.pdb
+C:\UAI\2020\PI\UNIDAD3\Clase 9\Clase 9\EnvioMail\EnvioMail\obj\Debug\EnvioMail.csprojAssemblyReference.cache
+C:\UAI\2020\PI\UNIDAD3\Clase 9\Clase 9\EnvioMail\EnvioMail\obj\Debug\EnvioMail.Form1.resources
+C:\UAI\2020\PI\UNIDAD3\Clase 9\Clase 9\EnvioMail\EnvioMail\obj\Debug\EnvioMail.Properties.Resources.resources
+C:\UAI\2020\PI\UNIDAD3\Clase 9\Clase 9\EnvioMail\EnvioMail\obj\Debug\EnvioMail.csproj.GenerateResource.cache
+C:\UAI\2020\PI\UNIDAD3\Clase 9\Clase 9\EnvioMail\EnvioMail\obj\Debug\EnvioMail.csproj.CoreCompileInputs.cache
+C:\UAI\2020\PI\UNIDAD3\Clase 9\Clase 9\EnvioMail\EnvioMail\obj\Debug\EnvioMail.exe
+C:\UAI\2020\PI\UNIDAD3\Clase 9\Clase 9\EnvioMail\EnvioMail\obj\Debug\EnvioMail.pdb
+C:\Users\tadeo\source\repos\EnvioMail\EnvioMail\bin\Debug\EnvioMail.exe.config
+C:\Users\tadeo\source\repos\EnvioMail\EnvioMail\bin\Debug\EnvioMail.exe
+C:\Users\tadeo\source\repos\EnvioMail\EnvioMail\bin\Debug\EnvioMail.pdb
+C:\Users\tadeo\source\repos\EnvioMail\EnvioMail\obj\Debug\EnvioMail.csprojAssemblyReference.cache
+C:\Users\tadeo\source\repos\EnvioMail\EnvioMail\obj\Debug\EnvioMail.Form1.resources
+C:\Users\tadeo\source\repos\EnvioMail\EnvioMail\obj\Debug\EnvioMail.Properties.Resources.resources
+C:\Users\tadeo\source\repos\EnvioMail\EnvioMail\obj\Debug\EnvioMail.csproj.GenerateResource.cache
+C:\Users\tadeo\source\repos\EnvioMail\EnvioMail\obj\Debug\EnvioMail.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\source\repos\EnvioMail\EnvioMail\obj\Debug\EnvioMail.exe
+C:\Users\tadeo\source\repos\EnvioMail\EnvioMail\obj\Debug\EnvioMail.pdb

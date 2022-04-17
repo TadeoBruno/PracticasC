@@ -1,0 +1,7 @@
+C:\Users\tadeo\source\repos\TP12021\TP12021\bin\Debug\TP12021.exe.config
+C:\Users\tadeo\source\repos\TP12021\TP12021\bin\Debug\TP12021.exe
+C:\Users\tadeo\source\repos\TP12021\TP12021\bin\Debug\TP12021.pdb
+C:\Users\tadeo\source\repos\TP12021\TP12021\obj\Debug\TP12021.csprojAssemblyReference.cache
+C:\Users\tadeo\source\repos\TP12021\TP12021\obj\Debug\TP12021.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\source\repos\TP12021\TP12021\obj\Debug\TP12021.exe
+C:\Users\tadeo\source\repos\TP12021\TP12021\obj\Debug\TP12021.pdb

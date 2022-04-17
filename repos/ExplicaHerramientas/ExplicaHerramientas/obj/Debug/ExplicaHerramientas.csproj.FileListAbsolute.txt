@@ -1,0 +1,42 @@
+C:\Users\Navegador\AppData\Local\Temporary Projects\ExplicaHerramientas\bin\Debug\ExplicaHerramientas.exe.config
+d:\documents\visual studio 2013\Projects\ExplicaHerramientas\ExplicaHerramientas\bin\Debug\ExplicaHerramientas.exe.config
+d:\documents\visual studio 2013\Projects\ExplicaHerramientas\ExplicaHerramientas\bin\Debug\ExplicaHerramientas.exe
+d:\documents\visual studio 2013\Projects\ExplicaHerramientas\ExplicaHerramientas\bin\Debug\ExplicaHerramientas.pdb
+d:\documents\visual studio 2013\Projects\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.frmPRINCIPAL.resources
+d:\documents\visual studio 2013\Projects\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.exe
+d:\documents\visual studio 2013\Projects\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.pdb
+C:\UAI\de Lucas Bracamonte\PROGRAMACION I\EJEMPLOS WINFORM C#\ExplicaHerramientas\ExplicaHerramientas\bin\Debug\ExplicaHerramientas.exe.config
+C:\UAI\de Lucas Bracamonte\PROGRAMACION I\EJEMPLOS WINFORM C#\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.exe
+C:\UAI\de Lucas Bracamonte\PROGRAMACION I\EJEMPLOS WINFORM C#\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.pdb
+C:\UAI\de Lucas Bracamonte\PROGRAMACION I\EJEMPLOS WINFORM C#\ExplicaHerramientas\ExplicaHerramientas\bin\Debug\ExplicaHerramientas.exe
+C:\UAI\de Lucas Bracamonte\PROGRAMACION I\EJEMPLOS WINFORM C#\ExplicaHerramientas\ExplicaHerramientas\bin\Debug\ExplicaHerramientas.pdb
+C:\UAI\de Lucas Bracamonte\PROGRAMACION I\EJEMPLOS WINFORM C#\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.csprojResolveAssemblyReference.cache
+C:\UAI\de Lucas Bracamonte\PROGRAMACION I\EJEMPLOS WINFORM C#\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.frmPRINCIPAL.resources
+C:\UAI\de Lucas Bracamonte\PROGRAMACION I\EJEMPLOS WINFORM C#\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.Properties.Resources.resources
+C:\UAI\de Lucas Bracamonte\PROGRAMACION I\EJEMPLOS WINFORM C#\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.csproj.GenerateResource.Cache
+C:\UAI\PI-2019\Clase 5\ExplicaHerramientas\ExplicaHerramientas\bin\Debug\ExplicaHerramientas.exe.config
+C:\UAI\PI-2019\Clase 5\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.exe
+C:\UAI\PI-2019\Clase 5\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.pdb
+C:\UAI\2020\PI\Unidad 2\clase 5\Clase 5\ExplicaHerramientas\ExplicaHerramientas\bin\Debug\ExplicaHerramientas.exe.config
+C:\UAI\2020\PI\Unidad 2\clase 5\Clase 5\ExplicaHerramientas\ExplicaHerramientas\bin\Debug\ExplicaHerramientas.exe
+C:\UAI\2020\PI\Unidad 2\clase 5\Clase 5\ExplicaHerramientas\ExplicaHerramientas\bin\Debug\ExplicaHerramientas.pdb
+C:\UAI\2020\PI\Unidad 2\clase 5\Clase 5\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.csprojAssemblyReference.cache
+C:\UAI\2020\PI\Unidad 2\clase 5\Clase 5\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.frmPRINCIPAL.resources
+C:\UAI\2020\PI\Unidad 2\clase 5\Clase 5\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.Properties.Resources.resources
+C:\UAI\2020\PI\Unidad 2\clase 5\Clase 5\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.csproj.GenerateResource.cache
+C:\UAI\2020\PI\Unidad 2\clase 5\Clase 5\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.csproj.CoreCompileInputs.cache
+C:\UAI\2020\PI\Unidad 2\clase 5\Clase 5\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.exe
+C:\UAI\2020\PI\Unidad 2\clase 5\Clase 5\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.pdb
+C:\Users\tadeo\source\repos\ExplicaHerramientas\ExplicaHerramientas\bin\Debug\ExplicaHerramientas.exe.config
+C:\Users\tadeo\source\repos\ExplicaHerramientas\ExplicaHerramientas\bin\Debug\ExplicaHerramientas.exe
+C:\Users\tadeo\source\repos\ExplicaHerramientas\ExplicaHerramientas\bin\Debug\ExplicaHerramientas.pdb
+C:\Users\tadeo\source\repos\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.csprojAssemblyReference.cache
+C:\Users\tadeo\source\repos\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.frmPRINCIPAL.resources
+C:\Users\tadeo\source\repos\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.Properties.Resources.resources
+C:\Users\tadeo\source\repos\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.csproj.GenerateResource.cache
+C:\Users\tadeo\source\repos\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\source\repos\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.exe
+C:\Users\tadeo\source\repos\ExplicaHerramientas\ExplicaHerramientas\obj\Debug\ExplicaHerramientas.pdb

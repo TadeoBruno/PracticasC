@@ -1,0 +1,29 @@
+C:\UAI\Proyectos\Clase3\ControlesValidaciones\ControlesValidaciones\bin\Debug\ControlesValidaciones.exe.config
+C:\UAI\Proyectos\Clase3\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.csprojResolveAssemblyReference.cache
+C:\UAI\Proyectos\Clase3\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.FormDatos.resources
+C:\UAI\Proyectos\Clase3\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.Properties.Resources.resources
+C:\UAI\Proyectos\Clase3\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.csproj.GenerateResource.Cache
+C:\UAI\Proyectos\Clase3\ControlesValidaciones\ControlesValidaciones\bin\Debug\ControlesValidaciones.exe
+C:\UAI\Proyectos\Clase3\ControlesValidaciones\ControlesValidaciones\bin\Debug\ControlesValidaciones.pdb
+C:\UAI\Proyectos\Clase3\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.exe
+C:\UAI\Proyectos\Clase3\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.pdb
+C:\UAI\2020\PI\Unidad 2\clase 4\ControlesValidaciones\ControlesValidaciones\bin\Debug\ControlesValidaciones.exe.config
+C:\UAI\2020\PI\Unidad 2\clase 4\ControlesValidaciones\ControlesValidaciones\bin\Debug\ControlesValidaciones.exe
+C:\UAI\2020\PI\Unidad 2\clase 4\ControlesValidaciones\ControlesValidaciones\bin\Debug\ControlesValidaciones.pdb
+C:\UAI\2020\PI\Unidad 2\clase 4\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.csprojAssemblyReference.cache
+C:\UAI\2020\PI\Unidad 2\clase 4\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.FormDatos.resources
+C:\UAI\2020\PI\Unidad 2\clase 4\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.Properties.Resources.resources
+C:\UAI\2020\PI\Unidad 2\clase 4\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.csproj.GenerateResource.cache
+C:\UAI\2020\PI\Unidad 2\clase 4\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.csproj.CoreCompileInputs.cache
+C:\UAI\2020\PI\Unidad 2\clase 4\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.exe
+C:\UAI\2020\PI\Unidad 2\clase 4\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.pdb
+C:\Users\tadeo\source\repos\ControlesValidaciones\ControlesValidaciones\bin\Debug\ControlesValidaciones.exe.config
+C:\Users\tadeo\source\repos\ControlesValidaciones\ControlesValidaciones\bin\Debug\ControlesValidaciones.exe
+C:\Users\tadeo\source\repos\ControlesValidaciones\ControlesValidaciones\bin\Debug\ControlesValidaciones.pdb
+C:\Users\tadeo\source\repos\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.csprojAssemblyReference.cache
+C:\Users\tadeo\source\repos\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.FormDatos.resources
+C:\Users\tadeo\source\repos\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.Properties.Resources.resources
+C:\Users\tadeo\source\repos\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.csproj.GenerateResource.cache
+C:\Users\tadeo\source\repos\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\source\repos\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.exe
+C:\Users\tadeo\source\repos\ControlesValidaciones\ControlesValidaciones\obj\Debug\ControlesValidaciones.pdb

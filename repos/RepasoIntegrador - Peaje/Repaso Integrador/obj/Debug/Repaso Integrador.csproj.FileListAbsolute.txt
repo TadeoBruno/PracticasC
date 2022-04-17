@@ -1,0 +1,10 @@
+C:\Users\Mapuche\Desktop\Ej\Repaso Integrador\bin\Debug\Repaso Integrador.exe.config
+C:\Users\Mapuche\Desktop\Ej\Repaso Integrador\bin\Debug\Repaso Integrador.exe
+C:\Users\Mapuche\Desktop\Ej\Repaso Integrador\bin\Debug\Repaso Integrador.pdb
+C:\Users\Mapuche\Desktop\Ej\Repaso Integrador\obj\Debug\Repaso Integrador.csproj.AssemblyReference.cache
+C:\Users\Mapuche\Desktop\Ej\Repaso Integrador\obj\Debug\Repaso_Integrador.Form1.resources
+C:\Users\Mapuche\Desktop\Ej\Repaso Integrador\obj\Debug\Repaso_Integrador.Properties.Resources.resources
+C:\Users\Mapuche\Desktop\Ej\Repaso Integrador\obj\Debug\Repaso Integrador.csproj.GenerateResource.cache
+C:\Users\Mapuche\Desktop\Ej\Repaso Integrador\obj\Debug\Repaso Integrador.csproj.CoreCompileInputs.cache
+C:\Users\Mapuche\Desktop\Ej\Repaso Integrador\obj\Debug\Repaso Integrador.exe
+C:\Users\Mapuche\Desktop\Ej\Repaso Integrador\obj\Debug\Repaso Integrador.pdb
